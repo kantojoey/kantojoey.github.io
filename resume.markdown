@@ -1,23 +1,8 @@
 ---
 layout: page
-title: Projects
-permalink: /projects
+title: Resume
+permalink: /resume
 ---
-
-Past Projects
-
-Hit Record
-Hit Record is a simple album-reviewing application built with React and powered by Spotify's public API service. This app allows for users to search for albums, view their key data points (such as title and release year), and leave a rating and review. In addition, the app provides extra customization by allowing users to display their four favorite albums on their profile for all to see.
-
-Visit my project [here](https://kantojoey.github.io/Unit1-Final-AlexisT/#/)
-
-![screenshot 1](assets/Screenshot 2026-01-18 at 10.59.03 PM.png)
-
-![screenshot 2](assets/Screenshot 2026-01-18 at 10.59.41 PM.png)
-
-![screenshot 3](assets/Screenshot 2026-01-18 at 11.00.27 PM.png)
-
-Resume
 
 Hit Record — LaunchCode Capstone Project
 
@@ -34,3 +19,6 @@ June 2021 - Present
 - Utilized GIS software to maintain data and topological integrity by analyzing mismatches between shapefile polygons at a fine-grained scale
 - Analyzed tax rate data for hundreds of counties spanning all 50 U.S. states and created high quality digital maps of county taxing districts using MapInfo Professional software
 - Researched county GIS data, including contacting county assessors as necessary to complete mapping projects in a timely and quality manner
+
+
+Download my resume <a href = "./assets/LaunchCode Resume- 2025.docx">here</a>

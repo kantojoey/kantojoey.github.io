@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<head>
+    <link rel="stylesheet" href="{{ '/assets/css/page.css' | relative_url }}">
+</head>
+<nav>
+  <a href="{{ site.baseurl }}/">Home</a> |
+  <a href="{{ site.baseurl }}/about/">About</a> |
+  <a href="{{ site.baseurl }}/resume/">Resume</a> |
+  <a href="{{ site.baseurl }}/projects/">Projects</a>
+</nav>
+<hr>
+<h1>{{ page.title }}</h1>
+{{ content }}
