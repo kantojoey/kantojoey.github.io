@@ -22,7 +22,7 @@ title: Alexis Tinoco
 email: atinoco999@gmail.com
 description: Click below to learn more and view my projects!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kantojoey.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: elontanked
 github_username: kantojoey
 
