@@ -20,14 +20,14 @@
 
 title: Alexis Tinoco
 email: atinoco999@gmail.com
-description: Content coming soon
+description: Click below to learn more and view my projects!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: elontanked
-github_username:  kantojoey
+# twitter_username: elontanked
+github_username: kantojoey
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
